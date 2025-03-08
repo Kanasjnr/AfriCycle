@@ -1,7 +1,7 @@
 # AfriCycle: A Multi-Stream ReFi Waste Management Ecosystem
 
 ## 🌍 Overview
-AfriCycle is a blockchain-powered circular economy platform built on the **Celo blockchain** that addresses Africa’s waste management crisis across three key waste streams: **plastic**, **electronic waste (e-waste)**, and **metal/general waste**. The platform incentivizes waste collection through **tokenized rewards**, enables **transparent recycling processes**, and promotes **corporate sustainability** through verified **recycling credits**.
+AfriCycle is a blockchain-powered circular economy platform that addresses Africa’s waste management crisis across three key waste streams: **plastic**, **electronic waste (e-waste)**, and **metal/general waste**. The platform incentivizes waste collection through **tokenized rewards**, enables **transparent recycling processes**, and promotes **corporate sustainability** through verified **recycling credits**.
 
 ## 🚀 Features
 ### ♻️ Multi-Stream Waste Collection
@@ -93,7 +93,7 @@ AfriCycle is built on the **Celo blockchain** for:
 - **Smart Contracts**: Solidity, Hardhat
 - **Frontend**: React.js, TypeScript
 - **Backend**: Node.js, Express, MongoDB
-- **Storage**: IPFS, Ceramic Network
+- **Storage**: IPFS
 
 ## 🚀 Getting Started
 ### 📥 Prerequisites
